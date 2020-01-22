@@ -1,0 +1,7 @@
+docx_to_pdf.test:
+  path: '/admin/structure/docx_to_pdf'
+  defaults:
+    _form: '\Drupal\docx_to_pdf\Form\TestForm'
+    _title: 'Docx to Pdf test'
+  requirements:
+    _permission: 'administer site configuration'

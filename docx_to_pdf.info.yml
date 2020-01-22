@@ -1,0 +1,6 @@
+name: Doc to pdf
+description: 'Docx to pdf extension.'
+type: module
+package: custom
+core: 8.x
+dependencies: { }

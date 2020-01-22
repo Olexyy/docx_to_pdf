@@ -1,0 +1,11 @@
+{
+  "name": "drupal/docx_to_pdf",
+  "description": "Integration for docx_to_pdf.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "dompdf/dompdf": "^0.8.4",
+    "phpoffice/phpword": "v0.17.*"
+  }
+}
